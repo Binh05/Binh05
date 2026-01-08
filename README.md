@@ -2,9 +2,8 @@
 <h3 align="center">💻 Software Developer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
-  <a href="https://your-portfolio.com">🌐 Portfolio</a>
+  <a href="mailto:binhdt0452@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/binh-thanh-831166319/">💼 LinkedIn</a> •
 </p>
 
 ---
@@ -70,13 +69,12 @@ Website: https://ecommerce-peach-rho-26.vercel.app/
 
 --- -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-<!-- <p align="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true" />
 </p>
 
----
+--- -->
 
 ## 🎓 Education
 
@@ -86,19 +84,10 @@ Website: https://ecommerce-peach-rho-26.vercel.app/
 
 ---
 
-## 💼 Experience
-
-- 🧑‍💻 **Intern / Fresher Developer** – (Công ty nếu có)
-- 📆 Thời gian: ...
-- ✨ Mô tả ngắn gọn 1–2 dòng
-
----
-
 ## 📫 Contact
 
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://your-portfolio.com
+- 📧 Email: nhdt0bi452@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/binh-thanh-831166319/
 
 ---
 
