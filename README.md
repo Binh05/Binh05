@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nguyễn Thanh Bình</h1>
+<h1 align="center">Hi, I'm Nguyễn Thanh Bình</h1>
 <h3 align="center">💻 Software Developer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
