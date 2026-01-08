@@ -48,8 +48,10 @@
 
 ### 🛒 E-Commerce Web App
 
-🔗 Demo: https://your-demo-link  
-📦 Repo: https://github.com/yourname/ecommerce
+🔗 Demo:
+Server: https://ecommerce-api-nx27.onrender.com
+Website: https://ecommerce-peach-rho-26.vercel.app/
+📦 Repo: https://github.com/Binh05/ecommerce
 
 - Authentication (JWT)
 - Cart, Order, Admin dashboard
@@ -58,7 +60,7 @@
 
 ---
 
-### 📚 Student Management System
+<!-- ### 📚 Student Management System
 
 📦 Repo: https://github.com/yourname/student-management
 
@@ -66,11 +68,11 @@
 - Phân quyền giáo viên / admin
 - **Tech:** Next.js, Express, MySQL
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true" />
 </p>
 
