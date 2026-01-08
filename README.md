@@ -78,8 +78,8 @@ Website: https://ecommerce-peach-rho-26.vercel.app/
 
 ## 🎓 Education
 
-- 🎓 **Đại học / Cao đẳng:** (Tên trường)
-- 📆 **Thời gian:** 20xx – 20xx
+- 🎓 **Đại học / Cao đẳng:** Trường đại học Sư Phạm Thành Phố Hồ Chí Minh
+- 📆 **Thời gian:** 2023 – 2027
 - 📘 **Chuyên ngành:** Công nghệ thông tin
 
 ---
